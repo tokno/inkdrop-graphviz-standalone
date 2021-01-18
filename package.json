@@ -1,0 +1,15 @@
+{
+  "name": "inkdrop-graphviz-standalone",
+  "main": "./lib/inkdrop-graphviz-standalone",
+  "version": "1.0.0",
+  "description": "A short description of your package",
+  "keywords": [],
+  "repository": "https://github.com/tokno/inkdrop-graphviz-standalone",
+  "license": "MIT",
+  "engines": {
+    "inkdrop": "^5.x"
+  },
+  "dependencies": {
+    "viz.js": "^2.1.2"
+  }
+}

@@ -1,7 +1,7 @@
 {
   "name": "graphviz-standalone",
   "main": "./lib/inkdrop-graphviz-standalone",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "'dot' rendering plugin that does not use Graphviz binary",
   "keywords": [],
   "repository": "https://github.com/tokno/inkdrop-graphviz-standalone",

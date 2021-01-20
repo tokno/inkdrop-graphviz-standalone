@@ -1,7 +1,7 @@
 {
   "name": "graphviz-standalone",
   "main": "./lib/inkdrop-graphviz-standalone",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Graphviz rendering plugin that does not use the Graphviz executable",
   "keywords": [],
   "repository": "https://github.com/tokno/inkdrop-graphviz-standalone",

@@ -1,4 +1,4 @@
-A rendering plugin for the dot language using [viz.js](https://www.npmjs.com/package/viz.js).
+A rendering plugin for the dot language using [@viz-js/viz](https://www.npmjs.com/package/@viz-js/viz).
 No need to install the Graphviz executable.
 
 ## Install

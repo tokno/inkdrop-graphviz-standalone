@@ -2,7 +2,7 @@
 # yarn lockfile v1
 
 
-viz.js@^2.1.2:
-  version "2.1.2"
-  resolved "https://registry.yarnpkg.com/viz.js/-/viz.js-2.1.2.tgz#6f09cd4e10af28754a6d50b055bd2e4a7693983a"
-  integrity sha512-UO6CPAuEMJ8oNR0gLLNl+wUiIzQUsyUOp8SyyDKTqVRBtq7kk1VnFmIZW8QufjxGrGEuI+LVR7p/C7uEKy0LQw==
+"@viz-js/viz@^3.1.0":
+  version "3.1.0"
+  resolved "https://registry.yarnpkg.com/@viz-js/viz/-/viz-3.1.0.tgz#f192a4f98f1fa187b959f2f54d169531677a0d99"
+  integrity sha512-rQi2PL9HoqTpE5DVodGgSLRdRVkDVgTG36AdcUR8EWxHL45KoUw7PAzZLm70vgK+QbUN6nCraTtqgxyqeJzxBA==

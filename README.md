@@ -17,3 +17,10 @@ After installation, the following syntax written in the code block will be drawn
 
 ## Screenshot
 ![doc/image/image.png](doc/image/image.png)
+
+## What is Graphviz?
+Graphviz is graph visualization software.
+It converts graph structures described in text format into images.
+
+For more detailed information, please see Graphviz official website.
+https://graphviz.org/
